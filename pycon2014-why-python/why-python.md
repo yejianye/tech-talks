@@ -287,5 +287,10 @@ Python是Glow服务器端的主力语言,
 #谢谢大家!
 
 ##我的微信号 ryanyewx
-##Glow正在招聘
+##[Glow正在招聘](http://t.cn/R7eA26O)
 ![inline](hiring-qr.png)
+
+---
+
+#Slide下载
+![inline](download-qr.png)
