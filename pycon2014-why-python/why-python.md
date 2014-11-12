@@ -1,5 +1,8 @@
+
 # 为何Python适合初创公司？
 ### 叶剑烨 - Glow Inc
+
+![inline](logo.png) 
 
 ---
 
@@ -293,4 +296,8 @@ Python是Glow服务器端的主力语言,
 ---
 
 #Slide下载
+
 ![inline](download-qr.png)
+
+---
+
